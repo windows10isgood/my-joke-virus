@@ -20,7 +20,7 @@ Safe To Use? 🤨
 When the file type is rar. it has source code
 __________________________
 
-How Do You Make Joke Viruses?👾
+How Do You Make Joke Viruses?👾💻🤔
 
 Install Bat to Exe.
 And open it if it done.
