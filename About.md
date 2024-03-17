@@ -17,7 +17,6 @@ Safe To Use? 🤨
 1. Disable your antivirus.
 2. Download of my viruses [if it the file type rar only download winrar frist]
 
-When the file type is rar. it has source code
 __________________________
 
 How Do You Make Joke Viruses?👾💻🤔
