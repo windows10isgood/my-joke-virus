@@ -19,7 +19,7 @@ ___________________
 
 __________________________
 
-# How Do You Make Joke Viruses?👾💻🤔
+# How Do You Make Joke Viruses?👾💻
 
 Install Bat to Exe.
 And open it if it done.
