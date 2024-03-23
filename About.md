@@ -15,7 +15,7 @@ ___________________
 # Safe To Use? 🤨
 
 1. Disable your antivirus.
-2. Download of my viruses [if it the file type rar only download winrar frist]
+2. Download of my viruses [if the file type rar only download winrar frist]
 
 __________________________
 
